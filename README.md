@@ -1,13 +1,13 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=12500&color=13D22C&width=435&lines=Hii...%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=11500&color=13D22C&width=435&lines=Hii...%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E8071F&width=700&lines=I'm+Jonash+Chataut;+-+CS+undergrad+-;+Exploring+and+learning+tech+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=E8071F&width=700&lines=I'm+Jonash+Chataut;+-+CS+undergrad+-;+Exploring+and+learning+tech+" alt="Typing SVG" />
   </a>
 </p>
 
