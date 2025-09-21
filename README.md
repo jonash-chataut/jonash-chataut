@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Socials links</p>
+<h2 align="left">Socials links</h2>
 
 ###
 
