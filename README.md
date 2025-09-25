@@ -84,6 +84,10 @@
 
 ###
 
+<h2 align="left">Weekly Coding Activity</h2>
+<!-- <sub align="left">VS Code Stats</sub> -->
+<sub align="left"><b><small>VS Code Stats:</small></b></sub>
+
 <!--START_SECTION:waka-->
 
 ```txt
