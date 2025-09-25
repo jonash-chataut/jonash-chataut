@@ -85,6 +85,14 @@
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 September 2025 - To: 24 September 2025
+
+Python   22 mins         ██████████████████▓░░░░░░   75.20 %
+Text     7 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
