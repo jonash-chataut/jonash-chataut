@@ -91,10 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Python   22 mins         ██████████████████▓░░░░░░   75.20 %
-Text     7 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+Python   35 mins         ███████████▓░░░░░░░░░░░░░   46.36 %
+HTML     32 mins         ██████████▓░░░░░░░░░░░░░░   42.24 %
+Text     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
 ```
 
 <!--END_SECTION:waka-->
