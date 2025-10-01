@@ -9,16 +9,16 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository # pulls your repo code
         uses: actions/checkout@v4
 
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SECTION_NAME: waka
+          SHOW_TITLE: true # show section title
+          SECTION_NAME: waka # stop listing after 'Other'
           TIME_RANGE: last_7_days
-          LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          STOP_AT_OTHER: true
+          LANG_COUNT: 5  # show top 5 languages
+          SHOW_TIME: true # show time per language
+          SHOW_TOTAL: true # show total time at the bottom
+          STOP_AT_OTHER: true # stop listing after 'Other'
