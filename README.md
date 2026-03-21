@@ -101,12 +101,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2026 - To: 19 March 2026
+From: 13 March 2026 - To: 20 March 2026
 
-Total Time: 1 hr 6 mins
+Total Time: 2 hrs 48 mins
 
-Python     1 hr 4 mins           ████████████████████████░   96.49 %
-Bash       2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+HTML       1 hr 52 mins          ████████████████▓░░░░░░░░   66.85 %
+CSS        45 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
+Python     8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Bash       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
