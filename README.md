@@ -101,14 +101,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 04 April 2026
+From: 29 March 2026 - To: 05 April 2026
 
-Total Time: 1 hr 50 mins
+Total Time: 28 mins
 
-JavaScript   1 hr 11 mins          ████████████████░░░░░░░░░   64.58 %
-HTML         26 mins               ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-CSS          12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-C++          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JavaScript   26 mins               ███████████████████████░░   91.77 %
+HTML         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+C++          0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
