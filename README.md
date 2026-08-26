@@ -109,15 +109,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2026 - To: 24 August 2026
+From: 18 August 2026 - To: 25 August 2026
 
-Total Time: 4 hrs 37 mins
+Total Time: 3 hrs 57 mins
 
-Gosu       2 hrs                 ██████████▓░░░░░░░░░░░░░░   43.26 %
-HTML       46 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-JSON       39 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Python     37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Markdown   32 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Gosu       2 hrs 1 min           ████████████▓░░░░░░░░░░░░   51.08 %
+HTML       48 mins               █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+Markdown   32 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+JSON       24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Python     10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
